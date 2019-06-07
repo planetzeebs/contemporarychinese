@@ -1,0 +1,45 @@
+{
+	"cards": [
+        {
+			"id": 1,
+			"eng": "you",
+			"han": "你",
+			"pinyin": "ni"
+		}, {
+			"id": 2,
+			"eng": "to come",
+			"han": "來",
+			"pinyin": "lai"
+		}, {
+			"id": 3,
+			"eng": "to be",
+			"han": "是",
+			"pinyin": "shi"
+		}, {
+			"id": 4,
+			"eng": "Miss, Ms",
+			"han": "小姐",
+			"pinyin": "xiaojie"
+		}, {
+			"id": 5,
+			"eng": "sentence final particle",
+			"han": "嗎",
+			"pinyin": "ma"
+		}, {
+			"id": 6,
+			"eng": "to pick someone up",
+			"han": "接",
+			"pinyin": "jie"
+		}, {
+			"id": 7,
+			"eng": "we, us",
+			"han": "我們",
+			"pinyin": "women"
+		}, {
+			"id": 8,
+			"eng": "I, me",
+			"han": "我",
+			"pinyin": "wo"
+		}
+	]
+}
