@@ -4,6 +4,8 @@ import Card from './Cards/Card';
 import DrawButton from './DrawButton/DrawButton';
 import firebase from 'firebase/app';
 import 'firebase/database';
+import 'firebase/auth';
+
 
 import {DB_CONFIG} from './config/firebase/dbconfig';
 
