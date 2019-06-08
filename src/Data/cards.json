@@ -477,6 +477,696 @@
 			"eng": "two",
 			"han": "兩",
 			"pinyin": "liǎng"
+		}, {
+			"book": 1,
+			"lesson": 3,
+			"eng": "weekend",
+			"han": "周末",
+			"pinyin": "zhōumò"
+		}, {
+			"book": 1,
+			"lesson": 3,
+			"eng": "to listen",
+			"han": "聽",
+			"pinyin": "tīng"
+		}, {
+			"book": 1,
+			"lesson": 3,
+			"eng": "music",
+			"han": "音樂",
+			"pinyin": "yīnyuè"
+		}, {
+			"book": 1,
+			"lesson": 3,
+			"eng": "to exercise",
+			"han": "運動",
+			"pinyin": "yùndòng"
+		}, {
+			"book": 1,
+			"lesson": 3,
+			"eng": "to play (ball games)",
+			"han": "打",
+			"pinyin": "dǎ"
+		}, {
+			"book": 1,
+			"lesson": 3,
+			"eng": "tennis",
+			"han": "網球",
+			"pinyin": "wǎngqiú"
+		}, {
+			"book": 1,
+			"lesson": 3,
+			"eng": "baseball",
+			"han": "棒球",
+			"pinyin": "bàngqiú"
+		}, {
+			"book": 1,
+			"lesson": 3,
+			"eng": "and, as well as",
+			"han": "和",
+			"pinyin": "hàn"
+		}, {
+			"book": 1,
+			"lesson": 3,
+			"eng": "to swim",
+			"han": "游泳",
+			"pinyin": "yóuyǒng"
+		}, {
+			"book": 1,
+			"lesson": 3,
+			"eng": "often",
+			"han": "常",
+			"pinyin": "cháng"
+		}, {
+			"book": 1,
+			"lesson": 3,
+			"eng": "basketball",
+			"han": "籃球",
+			"pinyin": "lánqiú"
+		}, {
+			"book": 1,
+			"lesson": 3,
+			"eng": "also",
+			"han": "也",
+			"pinyin": "yě"
+		}, {
+			"book": 1,
+			"lesson": 3,
+			"eng": "to kick",
+			"han": "踢",
+			"pinyin": "tī"
+		}, {
+			"book": 1,
+			"lesson": 3,
+			"eng": "soccer",
+			"han": "足球",
+			"pinyin": "zúqiú"
+		}, {
+			"book": 1,
+			"lesson": 3,
+			"eng": "to feel, to think",
+			"han": "覺得",
+			"pinyin": "juéde"
+		}, {
+			"book": 1,
+			"lesson": 3,
+			"eng": "interesting, fun",
+			"han": "好玩",
+			"pinyin": "hǎowán"
+		}, {
+			"book": 1,
+			"lesson": 3,
+			"eng": "tomorrow",
+			"han": "明天",
+			"pinyin": "míngtiān"
+		}, {
+			"book": 1,
+			"lesson": 3,
+			"eng": "morning",
+			"han": "早上",
+			"pinyin": "zǎoshàng"
+		}, {
+			"book": 1,
+			"lesson": 3,
+			"eng": "to go",
+			"han": "去",
+			"pinyin": "qù"
+		}, {
+			"book": 1,
+			"lesson": 3,
+			"eng": "How about it?  How does that sound?  What do you think?",
+			"han": "怎麼樣",
+			"pinyin": "zěnmeyàng"
+		}, {
+			"book": 1,
+			"lesson": 3,
+			"eng": "sentence-final particle",
+			"han": "啊",
+			"pinyin": "a"
+		}, {
+			"book": 1,
+			"lesson": 3,
+			"eng": "do what",
+			"han": "做甚麼",
+			"pinyin": "zuòshénme"
+		}, {
+			"book": 1,
+			"lesson": 3,
+			"eng": "OK",
+			"han": "好啊",
+			"pinyin": "hǎoa"
+		}, {
+			"book": 1,
+			"lesson": 3,
+			"eng": "a woman from the US",
+			"han": "白如玉",
+			"pinyin": "bái rúyù"
+		}, {
+			"book": 1,
+			"lesson": 3,
+			"eng": "today",
+			"han": "今天",
+			"pinyin": "jīntiān"
+		}, {
+			"book": 1,
+			"lesson": 3,
+			"eng": "evening, night",
+			"han": "晚上",
+			"pinyin": "wǎnshàng"
+		}, {
+			"book": 1,
+			"lesson": 3,
+			"eng": "to see, to watch",
+			"han": "看",
+			"pinyin": "kàn"
+		}, {
+			"book": 1,
+			"lesson": 3,
+			"eng": "movie",
+			"han": "電影",
+			"pinyin": "diànyǐng"
+		}, {
+			"book": 1,
+			"lesson": 3,
+			"eng": "you (female)",
+			"han": "妳",
+			"pinyin": "nǐ"
+		}, {
+			"book": 1,
+			"lesson": 3,
+			"eng": "to want, to think",
+			"han": "想",
+			"pinyin": "xiǎng"
+		}, {
+			"book": 1,
+			"lesson": 3,
+			"eng": "or (used in a question)",
+			"han": "還是",
+			"pinyin": "háishì"
+		}, {
+			"book": 1,
+			"lesson": 3,
+			"eng": "sentence-final particle for suggestion",
+			"han": "吧",
+			"pinyin": "ba"
+		}, {
+			"book": 1,
+			"lesson": 3,
+			"eng": "could (possibility)",
+			"han": "可以",
+			"pinyin": "kěyǐ"
+		}, {
+			"book": 1,
+			"lesson": 3,
+			"eng": "to learn, to study",
+			"han": "學",
+			"pinyin": "xué"
+		}, {
+			"book": 1,
+			"lesson": 3,
+			"eng": "Chinese language",
+			"han": "中文",
+			"pinyin": "zhōngwén"
+		}, {
+			"book": 1,
+			"lesson": 3,
+			"eng": "together",
+			"han": "一起",
+			"pinyin": "yìqǐ"
+		}, {
+			"book": 1,
+			"lesson": 3,
+			"eng": "to eat",
+			"han": "吃",
+			"pinyin": "chī"
+		}, {
+			"book": 1,
+			"lesson": 3,
+			"eng": "dinner",
+			"han": "晚飯",
+			"pinyin": "wǎnfàn"
+		}, {
+			"book": 1,
+			"lesson": 3,
+			"eng": "cuisine",
+			"han": "菜",
+			"pinyin": "cài"
+		}, {
+			"book": 1,
+			"lesson": 3,
+			"eng": "Vietnam",
+			"han": "越南",
+			"pinyin": "yuěnán"
+		}, {
+			"book": 1,
+			"lesson": 3,
+			"eng": "How about...?  How does that sound?",
+			"han": "好不好",
+			"pinyin": "hǎobùhǎo"
+		}, {
+			"book": 1,
+			"lesson": 4,
+			"eng": "altogether",
+			"han": "一共",
+			"pinyin": "yígòng"
+		}, {
+			"book": 1,
+			"lesson": 4,
+			"eng": "how much, how many",
+			"han": "多少",
+			"pinyin": "duōshǎo"
+		}, {
+			"book": 1,
+			"lesson": 4,
+			"eng": "money",
+			"han": "錢",
+			"pinyin": "qián"
+		}, {
+			"book": 1,
+			"lesson": 4,
+			"eng": "store-owner, boss",
+			"han": "老闆",
+			"pinyin": "lǎobǎn"
+		}, {
+			"book": 1,
+			"lesson": 4,
+			"eng": "to buy",
+			"han": "買",
+			"pinyin": "mǎi"
+		}, {
+			"book": 1,
+			"lesson": 4,
+			"eng": "cup",
+			"han": "杯",
+			"pinyin": "bēi"
+		}, {
+			"book": 1,
+			"lesson": 4,
+			"eng": "hot",
+			"han": "熱",
+			"pinyin": "rè"
+		}, {
+			"book": 1,
+			"lesson": 4,
+			"eng": "steamed buns with meat stuffing filling",
+			"han": "包子",
+			"pinyin": "bāozi"
+		}, {
+			"book": 1,
+			"lesson": 4,
+			"eng": "to want, to need",
+			"han": "要",
+			"pinyin": "yào"
+		}, {
+			"book": 1,
+			"lesson": 4,
+			"eng": "large",
+			"han": "大",
+			"pinyin": "dà"
+		}, {
+			"book": 1,
+			"lesson": 4,
+			"eng": "medium",
+			"han": "中",
+			"pinyin": "zhōng"
+		}, {
+			"book": 1,
+			"lesson": 4,
+			"eng": "small",
+			"han": "小",
+			"pinyin": "xiǎo"
+		}, {
+			"book": 1,
+			"lesson": 4,
+			"eng": "for",
+			"han": "騯",
+			"pinyin": "bāng"
+		}, {
+			"book": 1,
+			"lesson": 4,
+			"eng": "to microwave",
+			"han": "微薄",
+			"pinyin": "wéibō"
+		}, {
+			"book": 1,
+			"lesson": 4,
+			"eng": "hundred",
+			"han": "百",
+			"pinyin": "bǎi"
+		}, {
+			"book": 1,
+			"lesson": 4,
+			"eng": "measure word for Chinese money",
+			"han": "塊",
+			"pinyin": "kuài"
+		}, {
+			"book": 1,
+			"lesson": 4,
+			"eng": "OK",
+			"han": "好的",
+			"pinyin": "hǎode"
+		}, {
+			"book": 1,
+			"lesson": 4,
+			"eng": "take out, to go",
+			"han": "外帶",
+			"pinyin": "wàidài"
+		}, {
+			"book": 1,
+			"lesson": 4,
+			"eng": "for here",
+			"han": "內用",
+			"pinyin": "nèiyòng"
+		}, {
+			"book": 1,
+			"lesson": 4,
+			"eng": "measure word for cell phones",
+			"han": "支",
+			"pinyin": "zhī"
+		}, {
+			"book": 1,
+			"lesson": 4,
+			"eng": "new",
+			"han": "新",
+			"pinyin": "xīn"
+		}, {
+			"book": 1,
+			"lesson": 4,
+			"eng": "cell phone",
+			"han": "手機",
+			"pinyin": "shǒujī"
+		}, {
+			"book": 1,
+			"lesson": 4,
+			"eng": "too",
+			"han": "太",
+			"pinyin": "tài"
+		}, {
+			"book": 1,
+			"lesson": 4,
+			"eng": "old",
+			"han": "舊",
+			"pinyin": "jiù"
+		}, {
+			"book": 1,
+			"lesson": 4,
+			"eng": "sentence-final particle indicating the speaker's sence of certainty",
+			"han": "了",
+			"pinyin": "le"
+		}, {
+			"book": 1,
+			"lesson": 4,
+			"eng": "kind, type",
+			"han": "種",
+			"pinyin": "zhǒng"
+		}, {
+			"book": 1,
+			"lesson": 4,
+			"eng": "can, to be able to",
+			"han": "能",
+			"pinyin": "néng"
+		}, {
+			"book": 1,
+			"lesson": 4,
+			"eng": "to access the internet, to use the internet",
+			"han": "上網",
+			"pinyin": "shàngwǎng"
+		}, {
+			"book": 1,
+			"lesson": 4,
+			"eng": "that",
+			"han": "那",
+			"pinyin": "nà / nèi"
+		}, {
+			"book": 1,
+			"lesson": 4,
+			"eng": "expensive",
+			"han": "貴",
+			"pinyin": "guì"
+		}, {
+			"book": 1,
+			"lesson": 4,
+			"eng": "to sell",
+			"han": "賣",
+			"pinyin": "mài"
+		}, {
+			"book": 1,
+			"lesson": 4,
+			"eng": "cheap, inexpensive",
+			"han": "便宜",
+			"pinyin": "piányí"
+		}, {
+			"book": 1,
+			"lesson": 4,
+			"eng": "to take, to require",
+			"han": "要",
+			"pinyin": "yào"
+		}, {
+			"book": 1,
+			"lesson": 4,
+			"eng": "ten thousand",
+			"han": "萬",
+			"pinyin": "wàn"
+		}, {
+			"book": 1,
+			"lesson": 4,
+			"eng": "thousand",
+			"han": "千",
+			"pinyin": "qiān"
+		}, {
+			"book": 1,
+			"lesson": 4,
+			"eng": "why",
+			"han": "為什麼",
+			"pinyin": "wèishénme"
+		}, {
+			"book": 1,
+			"lesson": 5,
+			"eng": "beef",
+			"han": "牛肉",
+			"pinyin": "niúròu"
+		}, {
+			"book": 1,
+			"lesson": 5,
+			"eng": "noodles",
+			"han": "麵",
+			"pinyin": "miàn"
+		}, {
+			"book": 1,
+			"lesson": 5,
+			"eng": "really",
+			"han": "真",
+			"pinyin": "zhēn"
+		}, {
+			"book": 1,
+			"lesson": 5,
+			"eng": "delicious",
+			"han": "好吃",
+			"pinyin": "hǎochī"
+		}, {
+			"book": 1,
+			"lesson": 5,
+			"eng": "say",
+			"han": "說",
+			"pinyin": "shuō"
+		}, {
+			"book": 1,
+			"lesson": 5,
+			"eng": "few in number",
+			"han": "少",
+			"pinyin": "shǎo"
+		}, {
+			"book": 1,
+			"lesson": 5,
+			"eng": "well known, famous",
+			"han": "有名",
+			"pinyin": "yǒumíng"
+		}, {
+			"book": 1,
+			"lesson": 5,
+			"eng": "light repast, snack",
+			"han": "小吃",
+			"pinyin": "xiǎochī"
+		}, {
+			"book": 1,
+			"lesson": 5,
+			"eng": "most",
+			"han": "最",
+			"pinyin": "zuì"
+		}, {
+			"book": 1,
+			"lesson": 5,
+			"eng": "soup, broth",
+			"han": "燙",
+			"pinyin": "tāng"
+		}, {
+			"book": 1,
+			"lesson": 5,
+			"eng": "so",
+			"han": "這麼",
+			"pinyin": "zhème"
+		}, {
+			"book": 1,
+			"lesson": 5,
+			"eng": "to know",
+			"han": "知道",
+			"pinyin": "zhīdào"
+		}, {
+			"book": 1,
+			"lesson": 5,
+			"eng": "measure word for restaurants, shops, etc.",
+			"han": "家",
+			"pinyin": "jiā"
+		}, {
+			"book": 1,
+			"lesson": 5,
+			"eng": "shop, store",
+			"han": "店",
+			"pinyin": "diàn"
+		}, {
+			"book": 1,
+			"lesson": 5,
+			"eng": "really must, definitely",
+			"han": "一定",
+			"pinyin": "yídìng"
+		}, {
+			"book": 1,
+			"lesson": 5,
+			"eng": "to order (meals)",
+			"han": "點",
+			"pinyin": "diǎn"
+		}, {
+			"book": 1,
+			"lesson": 5,
+			"eng": "a bowl of",
+			"han": "碗",
+			"pinyin": "wǎn"
+		}, {
+			"book": 1,
+			"lesson": 5,
+			"eng": "That's right.",
+			"han": "是阿",
+			"pinyin": "shìa"
+		}, {
+			"book": 1,
+			"lesson": 5,
+			"eng": "xiaolongbao, e.g., small meat and cabbage-filled steamed buns",
+			"han": "小籠包",
+			"pinyin": "xiǎolóngbāo"
+		}, {
+			"book": 1,
+			"lesson": 5,
+			"eng": "stinky tofu (fermented tofu)",
+			"han": "臭豆腐",
+			"pinyin": "chòudòufǔ"
+		}, {
+			"book": 1,
+			"lesson": 5,
+			"eng": "Excellent. Great.",
+			"han": "太好了",
+			"pinyin": "tàihǎole"
+		}, {
+			"book": 1,
+			"lesson": 5,
+			"eng": "yesterday",
+			"han": "昨天",
+			"pinyin": "zuótiān"
+		}, {
+			"book": 1,
+			"lesson": 5,
+			"eng": "restaurant",
+			"han": "餐廳",
+			"pinyin": "cāntīng"
+		}, {
+			"book": 1,
+			"lesson": 5,
+			"eng": "but, however",
+			"han": "可是",
+			"pinyin": "kěshì"
+		}, {
+			"book": 1,
+			"lesson": 5,
+			"eng": "hot (spicy)",
+			"han": "辣",
+			"pinyin": "là"
+		}, {
+			"book": 1,
+			"lesson": 5,
+			"eng": "(here) to not like, to fear",
+			"han": "怕",
+			"pinyin": "pà"
+		}, {
+			"book": 1,
+			"lesson": 5,
+			"eng": "therefore, so",
+			"han": "所以",
+			"pinyin": "suǒyǐ"
+		}, {
+			"book": 1,
+			"lesson": 5,
+			"eng": "self",
+			"han": "自己",
+			"pinyin": "zìjǐ"
+		}, {
+			"book": 1,
+			"lesson": 5,
+			"eng": "to cook",
+			"han": "做飯",
+			"pinyin": "zuòfàn"
+		}, {
+			"book": 1,
+			"lesson": 5,
+			"eng": "complement marker",
+			"han": "得",
+			"pinyin": "de"
+		}, {
+			"book": 1,
+			"lesson": 5,
+			"eng": "to be able to, can",
+			"han": "會",
+			"pinyin": "huì"
+		}, {
+			"book": 1,
+			"lesson": 5,
+			"eng": "dessert",
+			"han": "甜點",
+			"pinyin": "tiándiǎn"
+		}, {
+			"book": 1,
+			"lesson": 5,
+			"eng": "not bad",
+			"han": "不錯",
+			"pinyin": "búcuò"
+		}, {
+			"book": 1,
+			"lesson": 5,
+			"eng": "could (possibility)",
+			"han": "可以",
+			"pinyin": "kěyǐ"
+		}, {
+			"book": 1,
+			"lesson": 5,
+			"eng": "to teach",
+			"han": "教",
+			"pinyin": "jiāo"
+		}, {
+			"book": 1,
+			"lesson": 5,
+			"eng": "to",
+			"han": "到",
+			"pinyin": "dào"
+		}, {
+			"book": 1,
+			"lesson": 5,
+			"eng": "a little",
+			"han": "有一點",
+			"pinyin": "yǒuyìdiǎn"
+		}, {
+			"book": 1,
+			"lesson": 5,
+			"eng": "not well",
+			"han": "不好",
+			"pinyin": "bùhǎo"
 		}
 	]
 }
