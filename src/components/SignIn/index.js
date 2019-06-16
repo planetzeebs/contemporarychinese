@@ -9,6 +9,9 @@ import * as ROUTES from '../../constants/routes';
 const SignInPage = () => (
   <div>
     <h1>Sign In </h1>
+    <SignInGoogle />
+    <SignInFacebook />
+    <SignInTwitter />
     <SignInForm></SignInForm>
     <PasswordForgetLink />
     <SignUpLink></SignUpLink>
@@ -20,6 +23,132 @@ const INITIAL_STATE = {
   password: '',
   error: null,
 };
+
+class SignInTwitterBase extends Component {
+  constructor(props) {
+    super(props);
+
+    this.state = {error:null};
+  }
+  submit = event => {
+    this.props.firebase
+    .doSignInWithTwitter()
+    .then(socialAuthUser => {
+      // Create a user in your Firebase Realtime Database too
+      return this.props.firebase
+        .user(socialAuthUser.user.uid)
+        .set({
+          username: socialAuthUser.user.displayName,
+          email: socialAuthUser.user.email,
+          roles: {},
+        });
+    })
+    .then(() => {
+      this.setState({ error: null });
+      this.props.history.push(ROUTES.HOME);
+    }) 
+    .catch(error => {
+      this.setState({error});
+    });
+    event.preventDefault();
+  }
+
+  render() {
+    const {error} = this.state;
+
+    return (
+      <form onSubmit={this.onSubmit}>
+        <button type = "submit">Sign In with Twitter</button>
+        {error && <p>{error.message}</p>}
+      </form>
+    )
+  }
+}
+class SignInFacebookBase extends Component {
+  constructor(props) {
+    super(props);
+
+    this.state = {error: null};
+  }
+
+  submit = event => {
+    this.props.firebase
+      .doSignInWithFacebook()
+      .then(socialAuthUser => {
+        // Create a user in your Firebase Realtime Database too
+        return this.props.firebase
+          .user(socialAuthUser.user.uid)
+          .set({
+            username: socialAuthUser.user.displayName,
+            email: socialAuthUser.user.email,
+            roles: {},
+          });
+      })
+      .then(() => {
+        this.setState({ error: null });
+        this.props.history.push(ROUTES.HOME);
+      })
+      .catch(error => {
+        this.setState({error});
+      });
+      event.preventDefault();
+  };
+  
+  render() {
+    const {error} = this.state;
+
+    return (
+      <form onSubmit={this.onSubmit}>
+        <button type="submit">Sign In with Facebook</button>
+
+        {error && <p>{error.message}</p>}
+      </form>
+    )
+  }
+}
+class SignInGoogleBase extends Component {
+  constructor(props) {
+    super(props);
+
+    this.state = { error: null };
+  }
+
+  onSubmit = event => {
+    this.props.firebase
+      .doSignInWithGoogle()
+      .then(socialAuthUser => {
+        // Create a user in your Firebase Realtime Database too
+        return this.props.firebase
+          .user(socialAuthUser.user.uid)
+          .set({
+            username: socialAuthUser.user.displayName,
+            email: socialAuthUser.user.email,
+            roles: {},
+          });
+      })
+      .then(() => {
+        this.setState({ error: null });
+        this.props.history.push(ROUTES.HOME);
+      })
+      .catch(error => {
+        this.setState({ error });
+      });
+
+    event.preventDefault();
+  };
+
+  render() {
+    const { error } = this.state;
+
+    return (
+      <form onSubmit={this.onSubmit}>
+        <button type="submit">Sign In with Google</button>
+
+        {error && <p>{error.message}</p>}
+      </form>
+    );
+  }
+}
 
 class SignInFormBase extends Component {
   constructor(props) {
@@ -83,6 +212,21 @@ const SignInForm = compose (
   withFirebase,
   )(SignInFormBase);
 
+  const SignInGoogle = compose(
+    withRouter,
+    withFirebase,
+  )(SignInGoogleBase);
+
+  const SignInFacebook = compose(
+    withRouter,
+    withFirebase,
+  )(SignInFacebookBase  );
+
+  const SignInTwitter = compose(
+    withRouter,
+    withFirebase,
+  )(SignInTwitterBase);
+
   export default SignInPage;
 
-  export {SignInForm};
+  export { SignInForm, SignInGoogle , SignInFacebookBase, SignInTwitterBase};
